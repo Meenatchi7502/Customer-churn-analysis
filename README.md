@@ -3,12 +3,13 @@ Project Goals:
 Your primary responsibility is to investigate the reasons behind customer attrition within a defined timeframe. Develop a dashboard using the provided data to present insights that can guide business decisions. Share key findings and recommendations derived from the analysis to empower decision-makers in addressing customer churn effectively.
 
 My Analysis:
+
 The total number of Customers is 7043,
 Customer Churn Rate 1,869 customers, which is approximately 26.54%.
 The total number of Churn Customers is 1859
 Tech-related tickets: 2,955
 Admin-related tickets: 3,622
- Total charges: $1,605,168
+Total charges: $1,605,168
 
 Electronic checks are the preferred payment method, surpassing credit cards. 
 Senior citizens with male partners exhibit higher churn rates. Customers with no partners 51.7% are more likely to churn. Also, Fiber optic subscribers have a higher churn rate of 43.96% which may be due to high charges per month. 
