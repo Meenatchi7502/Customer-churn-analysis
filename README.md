@@ -19,10 +19,17 @@ Here I used Gauge Chart for predicting the churn rate for future periods based o
 High volumes of tech and admin tickets were opened, indicating areas for improvement in service quality and customer support.
 
 Recommendations:
+
 •	Highlight the perks of paperless billing to encourage its adoption.
+
 •	Ensure electronic check payments are seamless and secure for customer peace of mind.
-•	Increase technical support customers device protection to ensure prompt issue resolution 
+
+•	Increase technical support customers device protection to ensure prompt issue resolution .
+
 •	We have more customers using Electronic Check, but we have more non-Churn Customers using Credit Card, so we should embed some of the Electronic Check packages into the Credit card Package.
+
 •	Encourage customers to consider longer-term contracts with incentives or discounts, especially for Month-to-Month subscribers.
+
 •	Senior citizens are churning at a higher rate. Develop tailored services and support for this segment.
+
 •	Customers with lower tenure (0-20 range) are churning at a higher rate. Implement retention strategies for this group.
